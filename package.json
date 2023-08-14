@@ -6,6 +6,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "@ant-design/cssinjs": "^1.16.2",
+    "antd": "^5.8.3",
     "next": "canary",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
